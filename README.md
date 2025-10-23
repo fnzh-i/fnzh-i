@@ -1,5 +1,4 @@
-<p align="left">Hello there! I'm Vert, a BS Computer Science student from the Philippines and a software engineer passionate about innovation, learning, and building meaningful projects.<br><br>While pursuing my degree, I’ve also been self-taught in various areas of programming and web development. I’m well-versed in multiple tech domains, particularly in servers, networking, and software systems, and I enjoy solving real-world problems through practical and innovative solutions.<br><br>💬 "Romanticize the process — make the grind exciting, not exhausting."</p>
-<hr>
+<p align="left">Hello there! I'm Vert, a BS Computer Science student from the Philippines and a software engineer passionate about innovation, learning, and building meaningful projects.<br><br>While pursuing my degree, I’ve also been self-taught in various areas of programming and web development. I’m well-versed in multiple tech domains, particularly in servers, networking, and software systems, and I enjoy solving real-world problems through practical and innovative solutions.<br><br>💬 "Romanticize the process — make the grind exciting, not exhausting."</p> <hr>
 
 ###
 
@@ -7,10 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fnzh-i&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fnzh-i&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/198473281?v=4"  />
 
 ###
 
