@@ -37,5 +37,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/fnzh-i/fnzh-i/output/snake.svg" alt="Snake animation" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fnzh-i&label=Profile%20views&color=0e75b6&style=flat" alt="fnzh-i" /> </p>
 
 ###
