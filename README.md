@@ -1,5 +1,35 @@
-<h3 align="left">C: \Who am I </h3> <hr>
-<p align="left">Hello there! I'm Vert, a BS Computer Science student from the Philippines and a software engineer passionate about innovation, learning, and building meaningful projects.<br><br>While pursuing my degree, I’ve also been self-taught in various areas of programming and web development. I’m well-versed in multiple tech domains, particularly in servers, networking, and software systems, and I enjoy solving real-world problems through practical and innovative solutions.<br><br>💬 "Romanticize the process — make the grind exciting, not exhausting."</p>
+## 👨‍💻 $ whoami
+
+```yaml
+user:
+  identity: "Vert"
+  origin: "Philippines 🇵🇭"
+  education: "BS Computer Science"
+
+  roles:
+    - "Software Engineer"
+    - "Full-stack Developer"
+      
+  focus:
+    - "Software Engineering"
+    - "System Architecture"
+    - "Innovation"
+  
+  current_projects:
+    - name: "Mobile Data Terminal"
+      stack: ["Laravel API", "Web Access"]
+      goal: "Bridging mobile-to-web ease of access"
+
+  status: |
+      [BUILDING] Mobile terminal for mobile-to-web access (Laravel API)
+      [LEARNING] Machine Learning / OCR & Android Studio (Kotlin)
+```
+
+### 💻 $ cat background.txt
+I am a self-taught builder pursuing a CS degree in the Philippines. I specialize in the intersection of **software systems**, **networking**, and **server-side architecture**. I enjoy and thrive on translating complex real-world problems into clean, executable code.
+
+### 📜 $ grep "philosophy" life.env
+> **"Romanticize the process — make the grind exciting, not exhausting."**
 
 ###
 
@@ -73,8 +103,11 @@
 </div>
 
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fnzh-i&label=Profile%20views&color=0e75b6&style=flat" alt="fnzh-i" /> </p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square&logo=target" />
+  <img src="https://img.shields.io/badge/Location-Philippines-blue?style=flat-square&logo=map" />
+  <img src="https://komarev.com/ghpvc/?username=fnzh-i&label=Profile%20views&color=0e75b6&style=flat" alt="fnzh-i" />
+</div>
 
 
 <!-- <div align="center">
