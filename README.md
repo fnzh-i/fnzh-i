@@ -37,7 +37,7 @@ I am a self-taught builder pursuing a CS degree in the Philippines. I specialize
   <a href="https://discord.com/users/603162667825365012" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:evert.matias1@gmail.com" target="_blank">
+  <a href="mailto:evert.matias1@gmail.com?subject=Inquiry%20from%20GitHub" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
   </a>
   <a href="" targer="_blank">
