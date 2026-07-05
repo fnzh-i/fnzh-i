@@ -16,13 +16,15 @@ user:
     - "Innovation"
   
   current_projects:
-    - name: "Mobile Data Terminal"
-      stack: ["Laravel API", "Web Access"]
-      goal: "Bridging mobile-to-web ease of access"
+    - name: "FNZRacer: WebDyno"
+      stack: ["Socket.io", "Node.js", "Express.js", "Vanilla JavaScript ES6+", "Chart.js", "Tailwind CSS", "Web Access"]
+      goal: "Bidirectional pipeline responsible for pairing devices via a 4-digit token room, 
+      allowing your mobile client to instantly beam telemetry down to the desktop and allowing the desktop to flash ECU tunes right back."
 
   status: |
-      [BUILDING] Mobile terminal for mobile-to-web access (Laravel API)
-      [LEARNING] Machine Learning / OCR & Android Studio (Kotlin)
+      [BUILDING] WebSocket real-time telemetry pipeline (Node.js & Socket.io)
+      [BUILDING] Dynamic ECU layout matrix & real-time canvas data charting (Tailwind CSS & Chart.js)
+      [LEARNING] Advanced WebSocket state sync & hardware-to-client telemetry piping
 ```
 
 ### 💻 $ cat background.txt
