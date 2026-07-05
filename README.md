@@ -17,8 +17,10 @@ user:
   
   current_projects:
     - name: "FNZRacer: WebDyno"
-      stack: ["Socket.io", "Node.js", "Express.js", "Vanilla JavaScript ES6+", "Chart.js", "Tailwind CSS", "Web Access"]
-      goal: "Bidirectional pipeline responsible for pairing devices via a 4-digit token room, 
+      stack:
+      ["Socket.io", "Node.js", "Express.js", "Vanilla JavaScript ES6+", "Chart.js", "Tailwind CSS"]
+      goal:
+      "Bidirectional pipeline responsible for pairing devices via a 4-digit token room, 
       allowing your mobile client to instantly beam telemetry down
       to the desktop and allowing the desktop to flash ECU tunes right back."
 
