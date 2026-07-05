@@ -19,7 +19,8 @@ user:
     - name: "FNZRacer: WebDyno"
       stack: ["Socket.io", "Node.js", "Express.js", "Vanilla JavaScript ES6+", "Chart.js", "Tailwind CSS", "Web Access"]
       goal: "Bidirectional pipeline responsible for pairing devices via a 4-digit token room, 
-      allowing your mobile client to instantly beam telemetry down to the desktop and allowing the desktop to flash ECU tunes right back."
+      allowing your mobile client to instantly beam telemetry down
+      to the desktop and allowing the desktop to flash ECU tunes right back."
 
   status: |
       [BUILDING] WebSocket real-time telemetry pipeline (Node.js & Socket.io)
