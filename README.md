@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://usagif.com/wp-content/uploads/funny-anime-gif-14.gif" alt="Funny Anime GIF" width="400" />
+</div>
+
+<br />
 ## 👨‍💻 $ whoami
 
 ```yaml
